@@ -1,8 +1,40 @@
-# React + Vite
+Todo List (React + CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: 🔗 uniquetoodolist.netlify.app
 
-Currently, two official plugins are available:
+GitHub Repo: 🔗 project-4-todo-list-using-react
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📖 About the Project
+
+A simple and efficient React-based Todo List App that allows users to add, delete, and mark tasks as completed.
+It’s lightweight, responsive, and perfect for beginners learning React fundamentals.
+
+🧠 Features
+
+Add / delete / complete tasks
+
+Persistent state (optional localStorage)
+
+Clean React component structure
+
+Fully responsive design
+
+🧰 Technologies Used
+
+React.js — Component-based UI
+
+HTML5 — Structure
+
+CSS3 — Styling
+
+JavaScript (ES6) — Logic
+
+🖼️ Preview
+![Todo List Preview](./screenshot.png)
+
+🧑‍💻 Author
+
+Hafiz Abdul Muizz
+📧 sh.hafizabdulmuizzraashidlateef@gmail.com
+
+🌐 LinkedIn Profile
